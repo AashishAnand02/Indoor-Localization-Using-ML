@@ -1,1 +1,8 @@
 # Indoor-Localization-Using-ML
+
+Wi-Fi-based Indoor Localization has emerged as a critical element in locating devices and individuals indoors. The use of access points and smart devices has made Wi-Fi-based Indoor Localization a valuable tool for locating devices and individuals in indoor environments. Researchers have been exploring this field for many years, and Wi-Fi-based indoor localization technology has become one of the most attractive fields for them. With its potential for accurate and efficient indoor localization, Wi-Fi-based technology has become an essential tool for businesses and institutions in various industries.
+
+In this project, we have presented Wi-Fi-based Indoor Localization using different Machine-Learning techniques. The machine learning algorithms that we have implemented and compared for Regression and Classifications are  Linear regression, Logistic Regression, Random Forest, Support Vector Machine, K-th Nearest Neighbor, Gaussian Naive Bayes, XGBoost, ADA Boost, and Gradient Boost Classifier. In this project, we have used UjiIndoorLoc: An indoor localization dataset to train and test the model by applying the above-mentioned Machine learning algorithm. The project aims to predict the position of the user with high accuracy in an indoor environment. The Regression Models are used to Predict the latitude and longitude and the Classification Model is used to predict floor and building.
+
+The UjiIndoorLoc: An indoor localization dataset: the official database used in the IPIN2015 competition. keywords: {Wireless Access Points (WAPs);  Received Signal Strength Intensity (RSSI)}. 
+Available: [https://www.kaggle.com/datasets/giantuji/UjiIndoorLoc/data](url)
